@@ -1,0 +1,317 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #000000;
+}
+#header1-9 P {
+  font-size: 25px;
+}
+#header1-9 H1 {
+  text-align: center;
+  font-size: 46px;
+}
+#content5-a .mbr-section-title {
+  font-size: 46px;
+  text-align: center;
+}
+#content5-a P {
+  text-align: left;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-1p .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+}
+#msg-box3-q .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-q .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-m .mbr-section-title {
+  font-size: 46px;
+  text-align: center;
+}
+#content5-h .mbr-section-title {
+  font-size: 46px;
+  text-align: center;
+}
+#features1-f H4 {
+  font-size: 22px;
+}
+#features1-i H4 {
+  font-size: 22px;
+}
+#content5-s .mbr-section-title {
+  font-size: 46px;
+  text-align: center;
+}
+#pricing-table1-r DIV {
+  font-size: 19px;
+}
+#pricing-table1-r UL {
+  font-size: 16px;
+}
+#msg-box3-12 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-12 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#testimonials1-b .card-block B {
+  font-size: 25px;
+}
+#testimonials1-b .card-footer > div {
+  font-size: 18px;
+}
+#testimonials1-b .card-footer > small {
+  font-size: 15px;
+}
+#testimonials1-r .card-block B {
+  font-size: 25px;
+}
+#testimonials1-r .card-footer > div {
+  font-size: 18px;
+}
+#testimonials1-r .card-footer > small {
+  font-size: 15px;
+}
+#testimonials1-s .card-block B {
+  font-size: 25px;
+}
+#testimonials1-s .card-footer > div {
+  font-size: 18px;
+}
+#testimonials1-s .card-footer > small {
+  font-size: 15px;
+}
+#msg-box3-13 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-13 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#social-buttons1-1 .mbr-section-title {
+  font-size: 30px;
+}
+#footer1-4 P {
+  text-align: center;
+}
+
+
+#dropdown-menu-2btn-r .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-r .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#dropdown-menu-2btn-r .nav .link,
+#dropdown-menu-2btn-r .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-r .navbar,
+#dropdown-menu-2btn-r .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-r .dropdown-menu a:hover,
+#dropdown-menu-2btn-r .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-r .navbar-toggler {
+  color: #000000;
+}
+#content5-u .mbr-section-title {
+  font-size: 60px;
+}
+#msg-box3-y .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-y .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-y .mbr-section-title {
+  text-align: left;
+}
+#content5-t .mbr-section-title {
+  font-size: 46px;
+}
+#content5-t P {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+#msg-box1-v H2 {
+  font-size: 30px;
+}
+#msg-box1-v P {
+  font-size: 17px;
+}
+#content4-z H4 {
+  text-align: right;
+}
+#msg-box3-u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-u .lead P {
+  font-size: 16px;
+  color: #d9534f;
+}
+#footer1-17 P {
+  text-align: center;
+}
+
+#dropdown-menu-2btn-18 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-18 .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#dropdown-menu-2btn-18 .nav .link,
+#dropdown-menu-2btn-18 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-18 .navbar,
+#dropdown-menu-2btn-18 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-18 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-18 .dropdown-menu a:hover,
+#dropdown-menu-2btn-18 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-18 .navbar-toggler {
+  color: #000000;
+}
+#content5-1a .mbr-section-title {
+  font-size: 60px;
+}
+#content5-1c .mbr-section-title {
+  font-size: 36px;
+  text-align: left;
+}
+#msg-box1-t H2 {
+  font-size: 30px;
+}
+#footer1-1o P {
+  text-align: center;
+}
+
+#dropdown-menu-2btn-13 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-13 .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#dropdown-menu-2btn-13 .nav .link,
+#dropdown-menu-2btn-13 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-13 .navbar,
+#dropdown-menu-2btn-13 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-13 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-13 .dropdown-menu a:hover,
+#dropdown-menu-2btn-13 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-13 .navbar-toggler {
+  color: #000000;
+}
+#content5-14 .mbr-section-title {
+  font-size: 60px;
+}
+#content4-18 H4 {
+  text-align: right;
+}
+#content4-1b H4 {
+  text-align: right;
+}
+#msg-box1-17 H2 {
+  font-size: 30px;
+}
+#msg-box1-17 P {
+  font-size: 17px;
+}
+#footer1-1a P {
+  text-align: center;
+}
+
+
+#dropdown-menu-2btn-1e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1e .navbar-brand a {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
+}
+#dropdown-menu-2btn-1e .nav .link,
+#dropdown-menu-2btn-1e .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-1e .navbar,
+#dropdown-menu-2btn-1e .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1e .dropdown-menu a:hover,
+#dropdown-menu-2btn-1e .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1e .navbar-toggler {
+  color: #000000;
+}
+#content5-1f .mbr-section-title {
+  font-size: 60px;
+}
+#content5-1h .mbr-section-title {
+  font-size: 25px;
+}
+#content5-1h P {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+#msg-box1-1i H2 {
+  font-size: 30px;
+}
+#msg-box1-1i P {
+  font-size: 17px;
+}
+#footer1-1l P {
+  text-align: center;
+}
